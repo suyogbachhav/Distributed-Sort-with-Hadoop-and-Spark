@@ -5,6 +5,8 @@
 * Shekhar Kausal 
 * Sumit Sakarkar 
 
+[REPORT](hw6-report.pdf)
+
 Hadoop Sort Script:
 
 1. This script has to be run from the hadoop cluster machine.
