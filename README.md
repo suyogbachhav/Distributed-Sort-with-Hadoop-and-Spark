@@ -1,11 +1,9 @@
-### CS553 Cloud Computing Homework 6 Repo
-**Illinois Institute of Technology**  
+### Cloud Computing Repo
 
-**Team Name**: CS553-Fall_2022-SSS 
-**Students**:  
-* Suyog Vilasrao Bachhav (sbachhav@hawk.iit.edu)  
-* Shekhar Kausal (skausal@hawk.iit.edu)
-* Sumit Sakarkar (ssakarkar@hawk.iit.edu)  
+**Team Members**:
+* Suyog Vilasrao Bachhav 
+* Shekhar Kausal 
+* Sumit Sakarkar 
 
 Hadoop Sort Script:
 
